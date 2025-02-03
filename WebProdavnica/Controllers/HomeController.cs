@@ -1,6 +1,7 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using WebProdavnica.Models;
+using Prodavnica.Models;
+
 
 namespace WebProdavnica.Controllers
 {

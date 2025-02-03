@@ -4,11 +4,11 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using WebProdavnica.DATA;
+using Prodavnica.DataAccess.DATA;
 
 #nullable disable
 
-namespace WebProdavnica.Migrations
+namespace Prodavnica.DataAccess.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
     [Migration("20241208224933_seedCategoryTable")]

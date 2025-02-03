@@ -1,4 +1,4 @@
-namespace WebProdavnica.Models
+namespace Prodavnica.Models
 {
     public class ErrorViewModel
     {

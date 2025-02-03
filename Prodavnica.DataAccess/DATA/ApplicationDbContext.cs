@@ -1,7 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using WebProdavnica.Models;
+using Prodavnica.Models;
 
-namespace WebProdavnica.DATA
+
+namespace Prodavnica.DataAccess.DATA
 {
     public class ApplicationDbContext : DbContext
     {

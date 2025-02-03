@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
-using WebProdavnica.DATA;
+using Prodavnica.DataAccess.DATA;
+
 
 var builder = WebApplication.CreateBuilder(args);
 

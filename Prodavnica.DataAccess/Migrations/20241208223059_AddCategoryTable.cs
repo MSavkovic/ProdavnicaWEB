@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace WebProdavnica.Migrations
+namespace Prodavnica.DataAccess.Migrations
 {
     /// <inheritdoc />
     public partial class AddCategoryTable : Migration
